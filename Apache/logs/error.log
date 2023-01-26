@@ -1,0 +1,239 @@
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Mon Dec 16 20:57:16 2013] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Dec 16 20:57:16 2013] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Dec 16 20:57:16 2013] [notice] Parent: Created child process 2524
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Mon Dec 16 20:57:16 2013] [notice] Child 2524: Child process is running
+[Mon Dec 16 20:57:16 2013] [notice] Child 2524: Acquired the start mutex.
+[Mon Dec 16 20:57:16 2013] [notice] Child 2524: Starting 64 worker threads.
+[Mon Dec 16 20:57:16 2013] [notice] Child 2524: Starting thread to listen on port 80.
+[Mon Dec 16 20:57:30 2013] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Dec 16 20:57:30 2013] [notice] Child 2524: Exit event signaled. Child process is ending.
+[Mon Dec 16 20:57:31 2013] [notice] Child 2524: Released the start mutex
+[Mon Dec 16 20:57:32 2013] [notice] Child 2524: All worker threads have exited.
+[Mon Dec 16 20:57:32 2013] [notice] Child 2524: Child process is exiting
+[Mon Dec 16 20:57:32 2013] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Mon Dec 16 20:59:21 2013] [notice] Apache/2.2.25 (Win32) configured -- resuming normal operations
+[Mon Dec 16 20:59:21 2013] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Dec 16 20:59:21 2013] [notice] Parent: Created child process 692
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Mon Dec 16 20:59:21 2013] [notice] Child 692: Child process is running
+[Mon Dec 16 20:59:21 2013] [notice] Child 692: Acquired the start mutex.
+[Mon Dec 16 20:59:21 2013] [notice] Child 692: Starting 64 worker threads.
+[Mon Dec 16 20:59:21 2013] [notice] Child 692: Starting thread to listen on port 80.
+[Mon Dec 16 20:59:23 2013] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Dec 16 20:59:23 2013] [notice] Child 692: Exit event signaled. Child process is ending.
+[Mon Dec 16 20:59:24 2013] [notice] Child 692: Released the start mutex
+[Mon Dec 16 20:59:25 2013] [notice] Child 692: All worker threads have exited.
+[Mon Dec 16 20:59:25 2013] [notice] Child 692: Child process is exiting
+[Mon Dec 16 20:59:25 2013] [notice] Parent: Child process exited successfully.
+Starting the Apache2 service
+The Apache2 service is running.
+] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Mar 07 10:13:14 2022] [warn] pid file C:/Website/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 07 10:13:15 2022] [notice] Apache/2.2.25 (Win32) mod_ssl/2.2.25 OpenSSL/0.9.8y PHP/5.2.17 configured -- resuming normal operations
+[Mon Mar 07 10:13:15 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Mar 07 10:13:15 2022] [notice] Parent: Created child process 14216
+[Mon Mar 07 10:13:15 2022] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Mar 07 10:13:16 2022] [notice] Child 14216: Child process is running
+[Mon Mar 07 10:13:16 2022] [notice] Child 14216: Acquired the start mutex.
+[Mon Mar 07 10:13:16 2022] [notice] Child 14216: Starting 150 worker threads.
+[Mon Mar 07 10:13:16 2022] [notice] Child 14216: Starting thread to listen on port 80.
+[Mon Mar 07 10:13:26 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/WWW/wow, referer: http://127.0.0.1/wow/en/forum/topic/5
+[Mon Mar 07 10:13:26 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/WWW/favicon.ico, referer: http://127.0.0.1/wow/en/search
+[Mon Mar 07 10:14:06 2022] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Mar 07 10:14:06 2022] [warn] pid file C:/Website/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 07 10:14:08 2022] [notice] Apache/2.2.25 (Win32) mod_ssl/2.2.25 OpenSSL/0.9.8y PHP/5.2.17 configured -- resuming normal operations
+[Mon Mar 07 10:14:08 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Mar 07 10:14:08 2022] [notice] Parent: Created child process 9424
+[Mon Mar 07 10:14:08 2022] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Mar 07 10:14:10 2022] [notice] Child 9424: Child process is running
+[Mon Mar 07 10:14:10 2022] [notice] Child 9424: Acquired the start mutex.
+[Mon Mar 07 10:14:10 2022] [notice] Child 9424: Starting 150 worker threads.
+[Mon Mar 07 10:14:10 2022] [notice] Child 9424: Starting thread to listen on port 80.
+[Mon Mar 07 10:16:06 2022] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Mar 07 10:16:06 2022] [warn] pid file C:/Website/PHPStudy5.2/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 07 10:16:08 2022] [notice] Apache/2.2.25 (Win32) mod_ssl/2.2.25 OpenSSL/0.9.8y PHP/5.2.17 configured -- resuming normal operations
+[Mon Mar 07 10:16:08 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Mar 07 10:16:08 2022] [notice] Parent: Created child process 12048
+[Mon Mar 07 10:16:08 2022] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Mar 07 10:16:10 2022] [notice] Child 12048: Child process is running
+[Mon Mar 07 10:16:10 2022] [notice] Child 12048: Acquired the start mutex.
+[Mon Mar 07 10:16:10 2022] [notice] Child 12048: Starting 150 worker threads.
+[Mon Mar 07 10:16:10 2022] [notice] Child 12048: Starting thread to listen on port 80.
+[Mon Mar 07 10:16:44 2022] [error] [client 127.0.0.1] script 'C:/Website/PHPStudy5.2/WWW/phpinfo.php' not found or unable to stat, referer: http://127.0.0.1/
+[Mon Mar 07 10:17:44 2022] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Mar 07 10:17:44 2022] [warn] pid file C:/Website/PHPStudy5.2/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 07 10:17:46 2022] [notice] Apache/2.2.25 (Win32) mod_ssl/2.2.25 OpenSSL/0.9.8y PHP/5.2.17 configured -- resuming normal operations
+[Mon Mar 07 10:17:46 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Mon Mar 07 10:17:46 2022] [notice] Parent: Created child process 8080
+Apache server shutdown initiated...
+it: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Mar 07 10:17:48 2022] [notice] Child 8080: Child process is running
+[Mon Mar 07 10:17:48 2022] [notice] Child 8080: Acquired the start mutex.
+[Mon Mar 07 10:17:48 2022] [notice] Child 8080: Starting 150 worker threads.
+[Mon Mar 07 10:17:48 2022] [notice] Child 8080: Starting thread to listen on port 80.
+[Mon Mar 07 10:18:10 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/manage/
+[Mon Mar 07 10:18:14 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/account/
+[Mon Mar 07 10:18:29 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/account/
+[Mon Mar 07 10:18:30 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/role/
+[Mon Mar 07 10:18:32 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/worldserver/conf.php
+[Mon Mar 07 10:19:05 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/worldserver/conf.php
+[Mon Mar 07 10:19:07 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/worldserver/gem.php
+[Mon Mar 07 10:19:13 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/worldserver/gem.php
+[Mon Mar 07 10:19:13 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/worldserver/special.php
+[Mon Mar 07 10:19:17 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/worldserver/vipinfo.php
+[Mon Mar 07 10:19:20 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/worldserver/item_up_list.php
+[Mon Mar 07 10:19:22 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/shop/index.php
+[Mon Mar 07 10:19:24 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/score/add.php
+[Mon Mar 07 10:19:25 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/score/search.php
+[Mon Mar 07 10:19:27 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/item/
+[Mon Mar 07 10:19:28 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/manage/log.php
+[Mon Mar 07 10:19:31 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/manage/
+[Mon Mar 07 10:19:34 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/account/
+[Mon Mar 07 10:19:47 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/account/
+[Mon Mar 07 10:20:40 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/manage/
+[Mon Mar 07 10:21:57 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/task/
+[Mon Mar 07 10:21:58 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/item/
+[Mon Mar 07 10:22:02 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/item/?item_entry=&item_name=&item_class=0&item_level=&item_bonding=&item_quality=&Submit=%B2%E9%D1%AF
+[Mon Mar 07 10:22:03 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/item/?item_entry=&item_name=&item_class=&item_level=&item_bonding=&item_quality=&Submit=%B2%E9%D1%AF
+[Mon Mar 07 10:22:04 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/item/?
+[Mon Mar 07 10:22:04 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/item/?item_entry=&item_name=&item_class=&item_level=&item_bonding=&item_quality=&Submit=%B2%E9%D1%AF
+[Mon Mar 07 10:28:51 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/shop/add.php
+[Mon Mar 07 10:28:56 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/manage/add.php
+[Mon Mar 07 10:28:59 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/manage/
+[Mon Mar 07 10:29:00 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/manage/log.php
+[Mon Mar 07 10:29:02 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/account/
+[Mon Mar 07 10:31:39 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/account/?uname=&stat=&Submit=%B2%E9%D1%AF
+[Mon Mar 07 10:31:41 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/account/?uname=&stat=&Submit=%B2%E9%D1%AF
+[Mon Mar 07 10:31:42 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/account/?
+[Mon Mar 07 10:31:45 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/account/?uname=admin&stat=&Submit=%B2%E9%D1%AF
+[Mon Mar 07 10:31:46 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/account/?
+[Mon Mar 07 10:31:46 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/account/?
+[Mon Mar 07 10:35:36 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/worldserver/conf.php
+[Mon Mar 07 10:36:46 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/item/
+[Mon Mar 07 10:36:51 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/manage/log.php
+[Mon Mar 07 10:36:53 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/manage/jfinfo.php
+[Mon Mar 07 10:38:28 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/manage/log.php
+[Mon Mar 07 10:38:31 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/manage/log.php?uname=&Submit=%B2%E9%D1%AF
+[Mon Mar 07 10:38:31 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/manage/log.php?uname=&Submit=%B2%E9%D1%AF
+[Mon Mar 07 10:38:33 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/manage/log.php?uname=admin&Submit=%B2%E9%D1%AF
+[Mon Mar 07 10:38:34 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/manage/log.php?uname=&Submit=%B2%E9%D1%AF
+[Mon Mar 07 10:38:36 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/score/list.php
+[Mon Mar 07 10:39:08 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/account/
+[Mon Mar 07 10:39:09 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/account/
+[Mon Mar 07 10:39:10 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/score/add.php
+[Mon Mar 07 10:39:11 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/npc/
+[Mon Mar 07 10:39:12 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/task/
+[Mon Mar 07 10:39:13 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/item/
+[Mon Mar 07 10:39:14 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/npc/
+[Mon Mar 07 10:39:39 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/item/
+[Mon Mar 07 10:53:03 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/account/
+[Mon Mar 07 10:54:24 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Mar 07 10:54:24 2022] [notice] Child 8080: Exit event signaled. Child process is ending.
+[Mon Mar 07 10:54:25 2022] [notice] Child 8080: Released the start mutex
+[Mon Mar 07 10:54:26 2022] [notice] Child 8080: All worker threads have exited.
+[Mon Mar 07 10:54:26 2022] [notice] Child 8080: Child process is exiting
+[Mon Mar 07 10:54:26 2022] [notice] Parent: Child process exited successfully.
+[Tue Mar 08 08:41:36 2022] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Mar 08 08:41:38 2022] [notice] Apache/2.2.25 (Win32) mod_ssl/2.2.25 OpenSSL/0.9.8y PHP/5.2.17 configured -- resuming normal operations
+[Tue Mar 08 08:41:38 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Tue Mar 08 08:41:38 2022] [notice] Parent: Created child process 6400
+Apache server shutdown initiated...
+it: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Mar 08 08:41:40 2022] [notice] Child 6400: Child process is running
+[Tue Mar 08 08:41:40 2022] [notice] Child 6400: Acquired the start mutex.
+[Tue Mar 08 08:41:40 2022] [notice] Child 6400: Starting 150 worker threads.
+[Tue Mar 08 08:41:40 2022] [notice] Child 6400: Starting thread to listen on port 80.
+[Tue Mar 08 08:43:16 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/favicon.ico, referer: http://127.0.0.1/manage/
+[Tue Mar 08 08:44:48 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/manage/
+[Tue Mar 08 08:44:50 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/role/
+[Tue Mar 08 08:44:57 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/worldserver/conf.php
+[Tue Mar 08 08:45:01 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/account/
+[Tue Mar 08 08:45:06 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/worldserver/vipinfo.php
+[Tue Mar 08 08:45:09 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/score/search.php
+[Tue Mar 08 08:45:51 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/npc/
+[Tue Mar 08 08:45:53 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/npc/
+[Tue Mar 08 08:45:54 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/item/
+[Tue Mar 08 08:45:59 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/npc/
+[Tue Mar 08 08:46:05 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/item/
+[Tue Mar 08 08:50:01 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/task/
+[Tue Mar 08 08:50:20 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/task/?task_entry=&task_name=&task_class=&QuestLevel=&task_zone=1&Submit=%B2%E9%D1%AF
+[Tue Mar 08 08:50:24 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/task/?task_entry=&task_name=&task_class=&QuestLevel=&task_zone=1&Submit=%B2%E9%D1%AF
+[Tue Mar 08 08:50:28 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/task/?task_entry=&task_name=&task_class=&QuestLevel=&task_zone=&Submit=%B2%E9%D1%AF
+[Tue Mar 08 08:50:33 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/task/
+[Tue Mar 08 08:50:37 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/manage/add.php
+[Tue Mar 08 08:50:42 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/item/
+[Tue Mar 08 08:50:42 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/task/
+[Tue Mar 08 08:50:44 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/manage/add.php
+[Tue Mar 08 08:50:45 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/manage/
+[Tue Mar 08 08:50:48 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/manage/
+[Tue Mar 08 08:50:51 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/shop/index.php
+[Tue Mar 08 08:50:54 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/worldserver/special.php
+[Tue Mar 08 08:50:55 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/worldserver/gem.php
+[Tue Mar 08 08:50:57 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/worldserver/conf.php
+[Tue Mar 08 08:50:58 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/role/
+[Tue Mar 08 08:51:00 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/worldserver/special.php
+[Tue Mar 08 08:51:00 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/worldserver/vipinfo.php
+[Tue Mar 08 08:51:53 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 08 08:51:53 2022] [notice] Child 6400: Exit event signaled. Child process is ending.
+[Tue Mar 08 08:51:54 2022] [notice] Child 6400: Released the start mutex
+[Tue Mar 08 08:52:28 2022] [notice] Child 6400: Waiting 270 more seconds for 1 worker threads to finish.
+[Tue Mar 08 08:52:58 2022] [notice] Child 6400: All worker threads have exited.
+[Tue Mar 08 08:52:58 2022] [notice] Child 6400: Child process is exiting
+[Tue Mar 08 10:00:56 2022] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Mar 08 10:00:56 2022] [warn] pid file C:/Website/PHPStudy5.2/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 08 10:00:57 2022] [notice] Apache/2.2.25 (Win32) mod_ssl/2.2.25 OpenSSL/0.9.8y PHP/5.2.17 configured -- resuming normal operations
+[Tue Mar 08 10:00:57 2022] [notice] Server built: Jul 10 2013 01:52:12
+[Tue Mar 08 10:00:57 2022] [notice] Parent: Created child process 13252
+Apache server shutdown initiated...
+it: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Mar 08 10:01:01 2022] [notice] Child 13252: Child process is running
+[Tue Mar 08 10:01:01 2022] [notice] Child 13252: Acquired the start mutex.
+[Tue Mar 08 10:01:01 2022] [notice] Child 13252: Starting 150 worker threads.
+[Tue Mar 08 10:01:01 2022] [notice] Child 13252: Starting thread to listen on port 80.
+[Tue Mar 08 10:01:01 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/favicon.ico, referer: http://127.0.0.1/manage/login.php
+[Tue Mar 08 10:01:03 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/manage/
+[Tue Mar 08 10:01:05 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/npc/
+[Tue Mar 08 10:01:07 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/task/
+[Tue Mar 08 10:01:08 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/item/
+[Tue Mar 08 10:01:12 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/npc/
+[Tue Mar 08 10:01:16 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/npc/
+[Tue Mar 08 10:01:19 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/npc/?
+[Tue Mar 08 10:01:20 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/npc/?npc_entry=&npc_name=&npc_rank=&npc_level=&Submit=%B2%E9%D1%AF
+[Tue Mar 08 10:01:22 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/npc/?npc_entry=&npc_name=&npc_rank=&npc_level=&Submit=%B2%E9%D1%AF
+[Tue Mar 08 10:02:20 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/npc/?npc_entry=&npc_name=&npc_rank=&npc_level=&Submit=%B2%E9%D1%AF
+[Tue Mar 08 10:02:49 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/npc/?npc_entry=&npc_name=&npc_rank=&npc_level=&Submit=%B2%E9%D1%AF
+[Tue Mar 08 10:02:59 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/item/
+[Tue Mar 08 10:03:24 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/npc/
+[Tue Mar 08 10:03:33 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/npc/?tmp=1&page=2
+[Tue Mar 08 10:03:37 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/npc/?npc_entry=&npc_name=&npc_rank=0&npc_level=&Submit=%B2%E9%D1%AF
+[Tue Mar 08 10:03:38 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/npc/?npc_entry=&npc_name=&npc_rank=&npc_level=&Submit=%B2%E9%D1%AF
+[Tue Mar 08 10:03:42 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/task/
+[Tue Mar 08 10:03:52 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/manage/
+[Tue Mar 08 10:03:55 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/manage/log.php
+[Tue Mar 08 10:03:58 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/shop/index.php
+[Tue Mar 08 10:04:06 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/worldserver/ranksystem.php
+[Tue Mar 08 10:04:08 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/worldserver/vipinfo.php
+[Tue Mar 08 10:04:09 2022] [error] [client 127.0.0.1] File does not exist: C:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://127.0.0.1/worldserver/special.php
+[Tue Mar 08 10:04:17 2022] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 08 10:04:17 2022] [notice] Child 13252: Exit event signaled. Child process is ending.
+[Tue Mar 08 10:04:18 2022] [notice] Child 13252: Released the start mutex
+[Tue Mar 08 10:04:19 2022] [notice] Child 13252: All worker threads have exited.
+[Tue Mar 08 10:04:19 2022] [notice] Child 13252: Child process is exiting
+[Thu Jan 26 15:09:49 2023] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jan 26 15:09:49 2023] [warn] pid file D:/Website/PHPStudy5.2/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 26 15:09:50 2023] [notice] Apache/2.2.25 (Win32) mod_ssl/2.2.25 OpenSSL/0.9.8y PHP/5.2.17 configured -- resuming normal operations
+[Thu Jan 26 15:09:50 2023] [notice] Server built: Jul 10 2013 01:52:12
+[Thu Jan 26 15:09:50 2023] [notice] Parent: Created child process 21900
+[Thu Jan 26 15:09:50 2023] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jan 26 15:09:52 2023] [notice] Child 21900: Child process is running
+[Thu Jan 26 15:09:52 2023] [notice] Child 21900: Acquired the start mutex.
+[Thu Jan 26 15:09:52 2023] [notice] Child 21900: Starting 150 worker threads.
+[Thu Jan 26 15:09:52 2023] [notice] Child 21900: Starting thread to listen on port 80.
+[Thu Jan 26 15:09:58 2023] [error] [client 127.0.0.1] File does not exist: D:/Website/PHPStudy5.2/WWW/favicon.ico, referer: http://localhost/manage/
+[Thu Jan 26 15:11:03 2023] [error] [client 127.0.0.1] File does not exist: D:/Website/PHPStudy5.2/WWW/manage/function.mysql-connect, referer: http://localhost/manage/
