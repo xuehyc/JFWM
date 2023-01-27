@@ -237,3 +237,111 @@ it: Session Cache is not configured [hint: SSLSessionCache]
 [Thu Jan 26 15:09:52 2023] [notice] Child 21900: Starting thread to listen on port 80.
 [Thu Jan 26 15:09:58 2023] [error] [client 127.0.0.1] File does not exist: D:/Website/PHPStudy5.2/WWW/favicon.ico, referer: http://localhost/manage/
 [Thu Jan 26 15:11:03 2023] [error] [client 127.0.0.1] File does not exist: D:/Website/PHPStudy5.2/WWW/manage/function.mysql-connect, referer: http://localhost/manage/
+[Thu Jan 26 23:51:27 2023] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jan 26 23:51:27 2023] [warn] pid file D:/Website/PHPStudy5.2/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 26 23:51:28 2023] [notice] Apache/2.2.25 (Win32) mod_ssl/2.2.25 OpenSSL/0.9.8y PHP/5.2.17 configured -- resuming normal operations
+[Thu Jan 26 23:51:28 2023] [notice] Server built: Jul 10 2013 01:52:12
+[Thu Jan 26 23:51:28 2023] [notice] Parent: Created child process 15228
+[Thu Jan 26 23:51:28 2023] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jan 26 23:51:30 2023] [notice] Child 15228: Child process is running
+[Thu Jan 26 23:51:30 2023] [notice] Child 15228: Acquired the start mutex.
+[Thu Jan 26 23:51:30 2023] [notice] Child 15228: Starting 150 worker threads.
+[Thu Jan 26 23:51:30 2023] [notice] Child 15228: Starting thread to listen on port 80.
+[Thu Jan 26 23:51:33 2023] [error] [client 127.0.0.1] File does not exist: D:/Website/PHPStudy5.2/WWW/favicon.ico, referer: http://localhost/manage/
+[Fri Jan 27 00:05:15 2023] [error] [client 127.0.0.1] File does not exist: D:/Website/PHPStudy5.2/WWW/manage/function.mysqli-connect, referer: http://localhost/manage/
+[Fri Jan 27 09:06:39 2023] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jan 27 09:06:39 2023] [warn] pid file D:/Website/PHPStudy5.2/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jan 27 09:06:41 2023] [notice] Apache/2.2.25 (Win32) mod_ssl/2.2.25 OpenSSL/0.9.8y PHP/5.2.17 configured -- resuming normal operations
+[Fri Jan 27 09:06:41 2023] [notice] Server built: Jul 10 2013 01:52:12
+[Fri Jan 27 09:06:41 2023] [notice] Parent: Created child process 22884
+[Fri Jan 27 09:06:41 2023] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jan 27 09:06:42 2023] [notice] Child 22884: Child process is running
+[Fri Jan 27 09:06:42 2023] [notice] Child 22884: Acquired the start mutex.
+[Fri Jan 27 09:06:42 2023] [notice] Child 22884: Starting 150 worker threads.
+[Fri Jan 27 09:06:42 2023] [notice] Child 22884: Starting thread to listen on port 80.
+[Fri Jan 27 09:24:15 2023] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jan 27 09:24:15 2023] [warn] pid file D:/Website/PHPStudy5.2/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jan 27 09:24:17 2023] [notice] Apache/2.2.25 (Win32) mod_ssl/2.2.25 OpenSSL/0.9.8y PHP/5.2.17 configured -- resuming normal operations
+[Fri Jan 27 09:24:17 2023] [notice] Server built: Jul 10 2013 01:52:12
+[Fri Jan 27 09:24:17 2023] [notice] Parent: Created child process 24228
+[Fri Jan 27 09:24:17 2023] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jan 27 09:24:18 2023] [notice] Child 24228: Child process is running
+[Fri Jan 27 09:24:18 2023] [notice] Child 24228: Acquired the start mutex.
+[Fri Jan 27 09:24:18 2023] [notice] Child 24228: Starting 150 worker threads.
+[Fri Jan 27 09:24:18 2023] [notice] Child 24228: Starting thread to listen on port 80.
+[Fri Jan 27 09:26:31 2023] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jan 27 09:26:31 2023] [warn] pid file D:/Website/PHPStudy5.2/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jan 27 09:26:32 2023] [notice] Apache/2.2.25 (Win32) mod_ssl/2.2.25 OpenSSL/0.9.8y PHP/5.2.17 configured -- resuming normal operations
+[Fri Jan 27 09:26:32 2023] [notice] Server built: Jul 10 2013 01:52:12
+[Fri Jan 27 09:26:32 2023] [notice] Parent: Created child process 20376
+[Fri Jan 27 09:26:32 2023] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jan 27 09:26:34 2023] [notice] Child 20376: Child process is running
+[Fri Jan 27 09:26:34 2023] [notice] Child 20376: Acquired the start mutex.
+[Fri Jan 27 09:26:34 2023] [notice] Child 20376: Starting 150 worker threads.
+[Fri Jan 27 09:26:34 2023] [notice] Child 20376: Starting thread to listen on port 80.
+[Fri Jan 27 09:32:50 2023] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jan 27 09:32:50 2023] [warn] pid file D:/Website/PHPStudy5.2/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jan 27 09:32:51 2023] [notice] Apache/2.2.25 (Win32) mod_ssl/2.2.25 OpenSSL/0.9.8y PHP/5.2.17 configured -- resuming normal operations
+[Fri Jan 27 09:32:51 2023] [notice] Server built: Jul 10 2013 01:52:12
+[Fri Jan 27 09:32:51 2023] [notice] Parent: Created child process 17908
+[Fri Jan 27 09:32:52 2023] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jan 27 09:32:53 2023] [notice] Child 17908: Child process is running
+[Fri Jan 27 09:32:53 2023] [notice] Child 17908: Acquired the start mutex.
+[Fri Jan 27 09:32:53 2023] [notice] Child 17908: Starting 150 worker threads.
+[Fri Jan 27 09:32:53 2023] [notice] Child 17908: Starting thread to listen on port 80.
+[Fri Jan 27 09:34:04 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'ODBC'@'localhost' (using password: NO) in D:\\Website\\PHPStudy5.2\\WWW\\inc\\func.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1255
+[Fri Jan 27 09:34:04 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in D:\\Website\\PHPStudy5.2\\WWW\\inc\\func.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1255
+[Fri Jan 27 09:34:04 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in D:\\Website\\PHPStudy5.2\\WWW\\inc\\func.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1256
+[Fri Jan 27 09:34:04 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in D:\\Website\\PHPStudy5.2\\WWW\\manage\\index.php on line 34
+[Fri Jan 27 09:34:04 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in D:\\Website\\PHPStudy5.2\\WWW\\manage\\index.php on line 35
+[Fri Jan 27 09:34:06 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'ODBC'@'localhost' (using password: NO) in D:\\Website\\PHPStudy5.2\\WWW\\inc\\func.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1408, referer: http://localhost/manage/login.php
+[Fri Jan 27 09:34:06 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in D:\\Website\\PHPStudy5.2\\WWW\\inc\\func.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1408, referer: http://localhost/manage/login.php
+[Fri Jan 27 09:34:06 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in D:\\Website\\PHPStudy5.2\\WWW\\inc\\func.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1410, referer: http://localhost/manage/login.php
+[Fri Jan 27 09:36:41 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'ODBC'@'localhost' (using password: NO) in D:\\Website\\PHPStudy5.2\\WWW\\inc\\func.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1408, referer: http://localhost/manage/login.php?
+[Fri Jan 27 09:36:41 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in D:\\Website\\PHPStudy5.2\\WWW\\inc\\func.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1408, referer: http://localhost/manage/login.php?
+[Fri Jan 27 09:36:41 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in D:\\Website\\PHPStudy5.2\\WWW\\inc\\func.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1410, referer: http://localhost/manage/login.php?
+[Fri Jan 27 09:36:46 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'ODBC'@'localhost' (using password: NO) in D:\\Website\\PHPStudy5.2\\WWW\\inc\\func.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1408, referer: http://localhost/manage/login.php?
+[Fri Jan 27 09:36:46 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in D:\\Website\\PHPStudy5.2\\WWW\\inc\\func.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1408, referer: http://localhost/manage/login.php?
+[Fri Jan 27 09:36:46 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in D:\\Website\\PHPStudy5.2\\WWW\\inc\\func.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1410, referer: http://localhost/manage/login.php?
+[Fri Jan 27 09:36:49 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'ODBC'@'localhost' (using password: NO) in D:\\Website\\PHPStudy5.2\\WWW\\inc\\func.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1408, referer: http://localhost/manage/login.php?
+[Fri Jan 27 09:36:49 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in D:\\Website\\PHPStudy5.2\\WWW\\inc\\func.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1408, referer: http://localhost/manage/login.php?
+[Fri Jan 27 09:36:49 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in D:\\Website\\PHPStudy5.2\\WWW\\inc\\func.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1410, referer: http://localhost/manage/login.php?
+[Fri Jan 27 09:37:03 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'ODBC'@'localhost' (using password: NO) in D:\\Website\\PHPStudy5.2\\WWW\\inc\\func.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1408, referer: http://localhost/manage/login.php?
+[Fri Jan 27 09:37:03 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in D:\\Website\\PHPStudy5.2\\WWW\\inc\\func.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1408, referer: http://localhost/manage/login.php?
+[Fri Jan 27 09:37:03 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in D:\\Website\\PHPStudy5.2\\WWW\\inc\\func.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1410, referer: http://localhost/manage/login.php?
+[Fri Jan 27 09:37:14 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'ODBC'@'localhost' (using password: NO) in D:\\Website\\PHPStudy5.2\\WWW\\inc\\func.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1408, referer: http://localhost/manage/login.php?
+[Fri Jan 27 09:37:14 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in D:\\Website\\PHPStudy5.2\\WWW\\inc\\func.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1408, referer: http://localhost/manage/login.php?
+[Fri Jan 27 09:37:14 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in D:\\Website\\PHPStudy5.2\\WWW\\inc\\func.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 1410, referer: http://localhost/manage/login.php?
+[Fri Jan 27 09:38:30 2023] [error] [client 127.0.0.1] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in D:\\Website\\PHPStudy5.2\\WWW\\config.php on line 16, referer: http://localhost/manage/login.php?act=login
+[Fri Jan 27 09:38:42 2023] [error] [client 127.0.0.1] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in D:\\Website\\PHPStudy5.2\\WWW\\config.php on line 16, referer: http://localhost/manage/login.php?act=login
+[Fri Jan 27 09:38:45 2023] [error] [client 127.0.0.1] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in D:\\Website\\PHPStudy5.2\\WWW\\config.php on line 16
+[Fri Jan 27 09:38:47 2023] [error] [client 127.0.0.1] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in D:\\Website\\PHPStudy5.2\\WWW\\config.php on line 16
+[Fri Jan 27 09:38:57 2023] [error] [client 127.0.0.1] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in D:\\Website\\PHPStudy5.2\\WWW\\config.php on line 16
+[Fri Jan 27 09:40:17 2023] [error] [client 127.0.0.1] File does not exist: D:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://localhost/manage/
+[Fri Jan 27 09:40:26 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in D:\\Website\\PHPStudy5.2\\WWW\\account\\index.php on line 58, referer: http://localhost/manage/
+[Fri Jan 27 09:40:26 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in D:\\Website\\PHPStudy5.2\\WWW\\account\\index.php on line 70, referer: http://localhost/manage/
+[Fri Jan 27 09:40:26 2023] [error] [client 127.0.0.1] File does not exist: D:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://localhost/account/
+[Fri Jan 27 09:40:35 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in D:\\Website\\PHPStudy5.2\\WWW\\account\\index.php on line 58, referer: http://localhost/account/
+[Fri Jan 27 09:40:35 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in D:\\Website\\PHPStudy5.2\\WWW\\account\\index.php on line 70, referer: http://localhost/account/
+[Fri Jan 27 09:40:35 2023] [error] [client 127.0.0.1] File does not exist: D:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://localhost/account/?uname=admin&stat=&Submit=%B2%E9%D1%AF
+[Fri Jan 27 09:40:39 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in D:\\Website\\PHPStudy5.2\\WWW\\account\\index.php on line 58, referer: http://localhost/account/?uname=admin&stat=&Submit=%B2%E9%D1%AF
+[Fri Jan 27 09:40:39 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in D:\\Website\\PHPStudy5.2\\WWW\\account\\index.php on line 70, referer: http://localhost/account/?uname=admin&stat=&Submit=%B2%E9%D1%AF
+[Fri Jan 27 09:40:39 2023] [error] [client 127.0.0.1] File does not exist: D:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://localhost/account/?
+[Fri Jan 27 09:40:40 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in D:\\Website\\PHPStudy5.2\\WWW\\inc\\func.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 318, referer: http://localhost/account/?
+[Fri Jan 27 09:40:40 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in D:\\Website\\PHPStudy5.2\\WWW\\worldserver\\conf.php on line 43, referer: http://localhost/account/?
+[Fri Jan 27 09:40:40 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in D:\\Website\\PHPStudy5.2\\WWW\\inc\\func.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 336, referer: http://localhost/account/?
+[Fri Jan 27 09:40:40 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in D:\\Website\\PHPStudy5.2\\WWW\\worldserver\\conf.php on line 70, referer: http://localhost/account/?
+[Fri Jan 27 09:40:40 2023] [error] [client 127.0.0.1] File does not exist: D:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://localhost/worldserver/conf.php
+[Fri Jan 27 09:40:44 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in D:\\Website\\PHPStudy5.2\\WWW\\inc\\func.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 318, referer: http://localhost/worldserver/conf.php
+[Fri Jan 27 09:40:44 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in D:\\Website\\PHPStudy5.2\\WWW\\worldserver\\conf.php on line 43, referer: http://localhost/worldserver/conf.php
+[Fri Jan 27 09:40:44 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in D:\\Website\\PHPStudy5.2\\WWW\\inc\\func.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 336, referer: http://localhost/worldserver/conf.php
+[Fri Jan 27 09:40:44 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in D:\\Website\\PHPStudy5.2\\WWW\\worldserver\\conf.php on line 70, referer: http://localhost/worldserver/conf.php
+[Fri Jan 27 09:40:44 2023] [error] [client 127.0.0.1] File does not exist: D:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://localhost/worldserver/conf.php
+[Fri Jan 27 09:40:44 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in D:\\Website\\PHPStudy5.2\\WWW\\inc\\func.php(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 300, referer: http://localhost/worldserver/conf.php
+[Fri Jan 27 09:40:44 2023] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in D:\\Website\\PHPStudy5.2\\WWW\\worldserver\\gem.php on line 100, referer: http://localhost/worldserver/conf.php
+[Fri Jan 27 09:40:44 2023] [error] [client 127.0.0.1] File does not exist: D:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://localhost/worldserver/gem.php
+[Fri Jan 27 09:40:47 2023] [error] [client 127.0.0.1] File does not exist: D:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://localhost/manage/add.php
+[Fri Jan 27 09:40:50 2023] [error] [client 127.0.0.1] File does not exist: D:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://localhost/shop/index.php
+[Fri Jan 27 09:40:57 2023] [error] [client 127.0.0.1] File does not exist: D:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://localhost/shop/add.php
+[Fri Jan 27 09:40:58 2023] [error] [client 127.0.0.1] File does not exist: D:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://localhost/shop/index.php
+[Fri Jan 27 09:41:03 2023] [error] [client 127.0.0.1] File does not exist: D:/Website/PHPStudy5.2/WWW/inc/htmltitle.js, referer: http://localhost/shop/edit.php?itemid=45706&shopid=40607
