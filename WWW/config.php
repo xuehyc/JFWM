@@ -7,7 +7,7 @@ $db_auth = 'mangos2_auth';//$db_auth = 'jfwow_realmd';//账号数据库
 $db_char = 'mangos2_char';//角色数据库
 $db_world = 'mangos2_world';//世界数据库
 
-
+//注意:避坑指南-不要修改mysql服务器端口,不然一堆错误,不能正常使用,还看不出缘由,以为是php版本的问题
 $conn = mysql_connect('localhost','root','root') or die('server error!');
 //$conn = mysqli_connect('localhost','root','root') or die('server error!');
 //可能是因为PHP版本原因,之前可以正常打开,现在不行
